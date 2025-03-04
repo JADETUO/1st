@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="
+    background-color: #688b72;
+    text-align: center;
+    padding: 40px;">
+  <img src="滑板照.jpg" alt="庹勄" width="80px" height="80px">  
+ </div>
+ <div style="
+ max-width: 700px;
+ margin: 30px auto;
+ padding: 15px;
+ line-height: 1.7;
+ text-align: center;">
+
+ <p>爱自由，<br>爱自在。</p>
+ <p>就像狗熊爱蜂蜜<br>海浪爱海岸<br>蜜蜂爱花蕊。</p>
+ </div>
+  <div style="
+ background-color: #688b72;
+ text-align: center;
+ padding: 40px;
+ font-size: 12px;">
+  <p>wx：dora576309</p>
+</div>
+</body>
+</html>
